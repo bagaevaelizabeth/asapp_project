@@ -20,3 +20,9 @@
 
 
    
+# Technologies
+
+1. Java
+2. Selenium Webdriver
+3. Junit 5
+4. Retrofit lib (for API)
